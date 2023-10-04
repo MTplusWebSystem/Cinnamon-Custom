@@ -45,6 +45,9 @@ cd Cinnamon-Custom
 unzip wallpapers.zip
 ```
 ```shell script
+mv wallpapers ~/Imagens 
+```
+```shell script
 unzip cinnamon-config.zip
 ```
 ```shell script
