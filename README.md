@@ -26,3 +26,12 @@ https://github.com/alvatip/Nordzy-icon
 use --total in ./install.sh
 
 example: ./install.sh --total
+
+# installation 
+
+```shell script
+sudo apt install plank
+```
+```shell script
+wget https://github.com/MTplusWebSystem/Cinnamon-Custom   
+```
