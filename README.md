@@ -33,5 +33,5 @@ example: ./install.sh --total
 sudo apt install plank
 ```
 ```shell script
-wget https://github.com/MTplusWebSystem/Cinnamon-Custom   
+git clone https://github.com/MTplusWebSystem/Cinnamon-Custom
 ```
