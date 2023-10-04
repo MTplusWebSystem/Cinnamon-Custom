@@ -6,6 +6,9 @@
 sudo apt update -y
 ```
 ```shell script
+sudo apt unzip
+```
+```shell script
 sudo apt upgrade -y
 ```
 ```shell script
@@ -35,3 +38,13 @@ sudo apt install plank
 ```shell script
 git clone https://github.com/MTplusWebSystem/Cinnamon-Custom
 ```
+```shell script
+cd Cinnamon-Custom 
+```
+```shell script
+unzip wallpapers.zip
+```
+```shell script
+unzip cinnamon-config.zip 
+```
+
