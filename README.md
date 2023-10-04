@@ -45,6 +45,13 @@ cd Cinnamon-Custom
 unzip wallpapers.zip
 ```
 ```shell script
-unzip cinnamon-config.zip 
+unzip cinnamon-config.zip
 ```
+```shell script
+cd cinnamon-config
+```
+```shell script
+dconf load /org/cinnamon/ < cinnamon-nord.conf
+```
+
 
